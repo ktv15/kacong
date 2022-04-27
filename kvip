@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="kcine" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png",K+ Cine HD (VieON)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/7498927c4e3be167d2c5bfa373ec89f5/1651101448452/wz/livetv_origin_drm/kplus_1_22_08_2021_android.smil/manifest.mpd
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/1f397bb61628b315cb0c448fb7caa42f/1651186608204/wz/livetv_origin_drm/kplus_1_22_08_2021_android.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="klife" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/pkscwfe3_k_life.png",K+ Life HD (VieON)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
