@@ -16,14 +16,6 @@ https://iplogger.com/2QMuu7.mpd
 
 https://iplogger.com/2pWFY6.mpd
 
-#EXTINF:-1 tvg-id="kkids" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/03/03/02qir9yg_livetv-ngang.png",K+ Kids HD (VieON)
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
-
-https://iplogger.com/2Qhiu7.mpd
-
 #EXTINF:-1 tvg-id="ksport1" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/10/28/4q516e9r_k-sport1.webp",K+ Sport1 HD (VieON)
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -32,7 +24,7 @@ https://iplogger.com/2Qhiu7.mpd
 
 https://iplogger.com/2IBeS4.mpd
 
-#EXTINF:-1 tvg-id="ksport2" group-title=K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png",K+ Sport2 HD (VieON)
+#EXTINF:-1 tvg-id="ksport2" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png",K+ Sport2 HD (VieON)
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
