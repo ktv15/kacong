@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1 refresh="1"
 
-#EXTINF:-1 tvg-id="kcine" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png",K+ Cine HD (VieON)
+#EXTINF:-1 tvg-id="kcine" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png",K+ Cine HD (VieON)
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -8,7 +8,7 @@
 
 https://iplogger.com/2QMuu7.mpd
 
-#EXTINF:-1 tvg-id="klife" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/pkscwfe3_k_life.png",K+ Life HD (VieON)
+#EXTINF:-1 tvg-id="klife" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/pkscwfe3_k_life.png",K+ Life HD (VieON)
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -16,7 +16,7 @@ https://iplogger.com/2QMuu7.mpd
 
 https://iplogger.com/2pWFY6.mpd
 
-#EXTINF:-1 tvg-id="ksport1" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/10/28/4q516e9r_k-sport1.webp",K+ Sport1 HD (VieON)
+#EXTINF:-1 tvg-id="ksport1" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/10/28/4q516e9r_k-sport1.webp",K+ Sport1 HD (VieON)
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -24,7 +24,7 @@ https://iplogger.com/2pWFY6.mpd
 
 https://iplogger.com/2IBeS4.mpd
 
-#EXTINF:-1 tvg-id="ksport2" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png",K+ Sport2 HD (VieON)
+#EXTINF:-1 tvg-id="ksport2" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png",K+ Sport2 HD (VieON)
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
