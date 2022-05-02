@@ -1179,3 +1179,14 @@ https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 http://103.214.9.53:9981/stream/channelid/282894526?profile=pass
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 http://103.214.9.53:9981/stream/channelid/980484542?profile=pass
+
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 1
+
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 2
+
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 3
+
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 4
+
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 5
+
