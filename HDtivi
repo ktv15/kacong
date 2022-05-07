@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1
+http://103.178.234.181/KSPORT1/index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
