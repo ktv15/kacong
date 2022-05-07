@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
