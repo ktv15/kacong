@@ -1175,7 +1175,7 @@ https://iplogger.com/2Dupe7.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/2Yc4f7.mpd
+https://sgn-vnpt-001-telco-livecdn-vthn2-vnd.vieon.vn/77a84ce33695fe58f03cb845e607a5a3/1652193439776/wz/livetv_origin_drm/kplus_sport_1_22_08_2021_android.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD VieON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
