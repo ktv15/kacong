@@ -1164,7 +1164,7 @@ http://103.178.234.181/WOMAN/mpegts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/2Dupe7.mpd
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/ab9a3a7259741d038d972819c80147b9/1652192226531/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD VieON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
