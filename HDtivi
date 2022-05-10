@@ -1181,7 +1181,7 @@ https://sgn-vnpt-001-telco-livecdn-vthn2-vnd.vieon.vn/77a84ce33695fe58f03cb845e6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/57dc0b46db5ae54fef23f549f45d2d7a/1652192225603/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 http://103.178.234.181/KCINE/mpegts
