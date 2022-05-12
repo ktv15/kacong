@@ -1184,13 +1184,13 @@ http://103.178.234.181/WOMAN/mpegts
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://103.178.234.181/KCINE/mpegts
+http://vthanhtivi.duckdns.org/KCINE/mpegts
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://103.178.234.181/KLIFE/mpegts
+http://vthanhtivi.duckdns.org/KLIFE/mpegts
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://103.178.234.181/KSPORT1/mpegts
+http://vthanhtivi.duckdns.org/KSPORT1/mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://103.178.234.181/KSPORT2/mpegts
+http://vthanhtivi.duckdns.org/KSPORT2/mpegts
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997279692/154dd470053b_480_270.png", K+ Cine HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
