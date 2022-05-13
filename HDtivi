@@ -1202,16 +1202,6 @@ http://103.178.234.181/WOMAN/mpegts
 #KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://vthanhtivi.duckdns.org/KCINE/mpegts
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://vthanhtivi.duckdns.org/KLIFE/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://vthanhtivi.duckdns.org/KSPORT1/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://vthanhtivi.duckdns.org/KSPORT2/mpegts
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997279692/154dd470053b_480_270.png", K+ Cine HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b45bbc5cd79342bab333290b2091c2e0&key=e405eef73890e848114d327df946dbb9
