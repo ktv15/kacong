@@ -1,5 +1,25 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997279692/154dd470053b_480_270.png", K+ Cine HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livetvbydtpro.duckdns.org/drm/key.php?keyid=b45bbc5cd79342bab333290b2091c2e0&key=e405eef73890e848114d327df946dbb9
+http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_480_270.png", K+ Life HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livetvbydtpro.duckdns.org/drm/key.php?keyid=669efc486f9646399d4a7e724b05bb17&key=f289e96e7724330f3f1927625fc17a23
+http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livetvbydtpro.duckdns.org/drm/key.php?keyid=8892d319306b420385411b760dc30cd6&key=d2dfa18eb3fba39765487360035e1ecf
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_480_270.png", K+ Sport2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livetvbydtpro.duckdns.org/drm/key.php?keyid=b54076dcd294484a924760dc6f402a0b&key=33b9e962c325182b97ca33c8e8e9e970
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
