@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
+#EXTM3U url-tvg="http://gg.gg/epgvn03"
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 FHD" tvg-logo="https://i.imgur.com/gEeOn8m.png" group-title="VTV" ,VTV1 FHD
 https://livetvbydtpro.duckdns.org/get/ott/vieon.php?kenh=vtv1-hd
