@@ -74,9 +74,8 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 HD 🔄
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sgn-vnpt-001-telco-livecdn-vthn-vnd.vieon.vn/08aa79bb0ec9491bc4051d492409f6a8/1652531506617/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/chunks.m3u8
-
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 9; MI 8 SE MIUI/V10.2.3.0.PEBCNXM)"
+https://livetvbydtpro.duckdns.org/get/ott/vieon.php?kenh=vtv6-hd
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="📺|VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD 🔄
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
