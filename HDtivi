@@ -1186,5 +1186,5 @@ http://live.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1652706118~acl=/
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ TV360 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", FOOTBALL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sdrm.tv360.vn/license/verify/widevine?deviceid=a6583d747659c209
+#KODIPROP:inputstream.adaptive.license_key=https://sdrm.tv360.vn/license/verify/widevine?device_id=a6583d747659c209
 http://live.tv360.vn/manifest/VTVCab16_HD/master.mpd?hdnts=exp=1652711534~acl=/*~hmac=d3b0d7fce7d2bdf657d82657022b0b3999e57aa78781f6d4fa79126f6ad4fc53
