@@ -1345,11 +1345,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 
 
-
 #EXTINF:0 group-title="Quốc Tế" tvg-id="           " tvg-logo="https://dl.dropbox.com/s/kabmnmrfiknvk1y/coodeeplay-logos-quoc-te2-3.png", Kpop
 
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-
 
 
 #EXTINF:0 group-title="Quốc Tế" tvg-id="           " tvg-logo="https://i.ibb.co/GV9bSf4/coodeeplay-logos-quoc-te-62.png", SBS MTV
@@ -1367,7 +1365,6 @@ http://ye23.win/iptv/sbs5.1.php?id=S09
 https://iplogger.com/2Dupe7.mpd
 
 
-
 #EXTINF:0 group-title="K+ coodee" tvg-id="klifehd" tvg-logo="https://i.ibb.co/FxY5cDB/coodee-play-logos-kplus-2.png", K+Life 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1377,7 +1374,6 @@ https://iplogger.com/2Dupe7.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
 
 https://iplogger.com/2jCty7.mpd
-
 
 
 #EXTINF:0 group-title="K+ coodee" tvg-id="kkidshd" tvg-logo="https://i.ibb.co/5F6wpzF/coodee-play-logos-kplus-3.png", K+ Kids 
@@ -1391,7 +1387,6 @@ https://iplogger.com/2jCty7.mpd
 https://iplogger.com/2RF847.mpd
 
 
-
 #EXTINF:0 group-title="K+ coodee" tvg-id="ksport1hd" tvg-logo="https://i.ibb.co/rxdf7wd/coodee-play-logos-kplus-4.png", K+Sport 1 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1401,7 +1396,6 @@ https://iplogger.com/2RF847.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
 
 https://iplogger.com/2Yc4f7.mpd
-
 
 
 #EXTINF:0 group-title="K+ coodee" tvg-id="ksport2hd" tvg-logo="https://i.ibb.co/ZSSRbLq/coodee-play-logos-kplus-5.png", K+Sport 2 
