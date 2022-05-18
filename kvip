@@ -121,6 +121,20 @@ http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?member_id=15499082&device_type=2&product_id=99&product_plugin_id=1&product_code_hst=&product_plugin_code_hst=&manufacturer_id=cd3cb1b131ff22ee&mf_code=vstv265&vmx_device_id=ZjYwOTgwNWYtZDE1Zi0zYmU2LTlmMjgtNWQxMmM2ZjJiMGFm&c=xyz
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
 
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="4️⃣| Quê Hương" tvg-logo="https://i.ibb.co/3FZpCTw/thvl1.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",💚| Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="4️⃣| Quê Hương" tvg-logo="https://i.ibb.co/qNh8qGg/thvl2.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",💚| Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="4️⃣| Quê Hương" tvg-logo="https://i.ibb.co/pxfG4Nd/thvl3.webp",💚| Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="4️⃣| Quê Hương" tvg-logo="https://i.ibb.co/n33qx5q/thvl4.webp",💚| Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://dl.dropboxusercontent.com/s/sa5t10fs4uwtevp/																				 ㅤ
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8?cc
+
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 FHD" tvg-logo="https://i.imgur.com/gEeOn8m.png" group-title="VTV" ,VTV1 FHD
 https://livetvbydtpro.duckdns.org/get/ott/vieon.php?kenh=vtv1-hd
 
