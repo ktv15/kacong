@@ -1342,6 +1342,60 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
 http://ye23.win/iptv/sbs5.1.php?id=S09
 
+#EXTINF:0 group-title="K+" tvg-id="kcinehd" tvg-logo="https://i.ibb.co/Nxr4QYP/coodee-play-logos-kplus-1.png", K+Cine 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#EXTVLCOPT:http-user-agent=VieON/20.0.1
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
+
+https://iplogger.com/2Dupe7.mpd
 
 
 
+#EXTINF:0 group-title="K+" tvg-id="klifehd" tvg-logo="https://i.ibb.co/FxY5cDB/coodee-play-logos-kplus-2.png", K+Life 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#EXTVLCOPT:http-user-agent=VieON/20.0.1
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
+
+https://iplogger.com/2jCty7.mpd
+
+
+
+#EXTINF:0 group-title="K+" tvg-id="kkidshd" tvg-logo="https://i.ibb.co/5F6wpzF/coodee-play-logos-kplus-3.png", K+ Kids 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#EXTVLCOPT:http-user-agent=VieON/20.0.1
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
+
+https://iplogger.com/2RF847.mpd
+
+
+
+#EXTINF:0 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://i.ibb.co/rxdf7wd/coodee-play-logos-kplus-4.png", K+Sport 1 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#EXTVLCOPT:http-user-agent=VieON/20.0.1
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
+
+https://iplogger.com/2Yc4f7.mpd
+
+
+
+#EXTINF:0 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://i.ibb.co/ZSSRbLq/coodee-play-logos-kplus-5.png", K+Sport 2 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#EXTVLCOPT:http-user-agent=VieON/20.0.1
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
+
+https://iplogger.com/2DPEj7.mpd
