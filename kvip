@@ -1342,7 +1342,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
 http://ye23.win/iptv/sbs5.1.php?id=S09
 
-#EXTINF:0 group-title="K+" tvg-id="kcinehd" tvg-logo="https://i.ibb.co/Nxr4QYP/coodee-play-logos-kplus-1.png", K+Cine 
+#EXTINF:0 group-title="K+ coodee" tvg-id="kcinehd" tvg-logo="https://i.ibb.co/Nxr4QYP/coodee-play-logos-kplus-1.png", K+Cine 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -1354,7 +1354,7 @@ https://iplogger.com/2Dupe7.mpd
 
 
 
-#EXTINF:0 group-title="K+" tvg-id="klifehd" tvg-logo="https://i.ibb.co/FxY5cDB/coodee-play-logos-kplus-2.png", K+Life 
+#EXTINF:0 group-title="K+ coodee" tvg-id="klifehd" tvg-logo="https://i.ibb.co/FxY5cDB/coodee-play-logos-kplus-2.png", K+Life 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -1366,7 +1366,7 @@ https://iplogger.com/2jCty7.mpd
 
 
 
-#EXTINF:0 group-title="K+" tvg-id="kkidshd" tvg-logo="https://i.ibb.co/5F6wpzF/coodee-play-logos-kplus-3.png", K+ Kids 
+#EXTINF:0 group-title="K+ coodee" tvg-id="kkidshd" tvg-logo="https://i.ibb.co/5F6wpzF/coodee-play-logos-kplus-3.png", K+ Kids 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -1378,7 +1378,7 @@ https://iplogger.com/2RF847.mpd
 
 
 
-#EXTINF:0 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://i.ibb.co/rxdf7wd/coodee-play-logos-kplus-4.png", K+Sport 1 
+#EXTINF:0 group-title="K+ coodee" tvg-id="ksport1hd" tvg-logo="https://i.ibb.co/rxdf7wd/coodee-play-logos-kplus-4.png", K+Sport 1 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -1390,7 +1390,7 @@ https://iplogger.com/2Yc4f7.mpd
 
 
 
-#EXTINF:0 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://i.ibb.co/ZSSRbLq/coodee-play-logos-kplus-5.png", K+Sport 2 
+#EXTINF:0 group-title="K+ coodee" tvg-id="ksport2hd" tvg-logo="https://i.ibb.co/ZSSRbLq/coodee-play-logos-kplus-5.png", K+Sport 2 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
