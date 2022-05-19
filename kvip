@@ -130,10 +130,10 @@ http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?member_id=15499082&device_type=2&product_id=99&product_plugin_id=1&product_code_hst=&product_plugin_code_hst=&manufacturer_id=cd3cb1b131ff22ee&mf_code=vstv265&vmx_device_id=ZjYwOTgwNWYtZDE1Zi0zYmU2LTlmMjgtNWQxMmM2ZjJiMGFm&c=xyz
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
 
-#EXTINF:0 tvg-id="htv7hd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/C9r5gwM/HTV7-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range--${start}-${offset}.m3u8?cc",HTV7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8?cc
-#https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8?cc
+#EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0 tvg-id="htv9hd" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/tqvWY3q/HTV9-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8?cc
