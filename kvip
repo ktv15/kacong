@@ -9,6 +9,17 @@ http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ vthanh" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
 
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports SD
+http://cdn.socolacdn.online:8080/onsporttv/mpegts
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
+http://cdn.socolacdn.online:8080/onfootball-HD/mpegts
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
+http://vthanhvnpt.duckdns.org/ONSports/mpegts
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD 50fps
+http://vthanhvnpt.duckdns.org/ONFootball/mpegts
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News 
+http://vthanhvnpt.duckdns.org/ONSportsNews/mpegts
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -37,10 +48,10 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjYwOTgwNWYtZDE1Zi0zYmU2LTlmMjgtNWQxMmM2ZjJiMGFm
 http://s7769.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="VTVCab6hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://vthanh.xyz/ic/18.png", ON Sports+
+#EXTINF:-1 tvg-id="VTVCab6hd" group-title="VTVCab VIP" tvg-logo="https://vthanh.xyz/ic/18.png", ON Sports+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?member_id=ZjYwOTgwNWYtZDE1Zi0zYmU2LTlmMjgtNWQxMmM2ZjJiMGFm
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?member_id=15499082&device_type=2&product_id=99&product_plugin_id=1&product_code_hst=&product_plugin_code_hst=&manufacturer_id=cd3cb1b131ff22ee&mf_code=vstv265&vmx_device_id=ZjYwOTgwNWYtZDE1Zi0zYmU2LTlmMjgtNWQxMmM2ZjJiMGFm&c=xyz
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv311&offset=1&nodelay=1
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-1-1630981226852763614647.jpg",VTVcab16
@@ -112,12 +123,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?member_id=15499082&device_type=2&product_id=99&product_plugin_id=1&product_code_hst=&product_plugin_code_hst=&manufacturer_id=cd3cb1b131ff22ee&mf_code=vstv265&vmx_device_id=ZjYwOTgwNWYtZDE1Zi0zYmU2LTlmMjgtNWQxMmM2ZjJiMGFm&c=xyz
 http://s129135.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="VTVCab6hd" group-title="VTVCab VIP" tvg-logo="https://vthanh.xyz/ic/18.png", ON Sports+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?member_id=15499082&device_type=2&product_id=99&product_plugin_id=1&product_code_hst=&product_plugin_code_hst=&manufacturer_id=cd3cb1b131ff22ee&mf_code=vstv265&vmx_device_id=ZjYwOTgwNWYtZDE1Zi0zYmU2LTlmMjgtNWQxMmM2ZjJiMGFm&c=xyz
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv311&offset=1&nodelay=1
 
 #EXTINF:-1 tvg-id="VTVCab16hd" group-title="VTVCab VIP" tvg-logo="https://vthanh.xyz/ic/26.png", ON Football HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
