@@ -9,16 +9,48 @@ http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ vthanh" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports SD
-http://cdn.socolacdn.online:8080/onsporttv/mpegts
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
-http://cdn.socolacdn.online:8080/onfootball-HD/mpegts
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
-http://vthanhvnpt.duckdns.org/ONSports/mpegts
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD 50fps
-http://vthanhvnpt.duckdns.org/ONFootball/mpegts
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News 
-http://vthanhvnpt.duckdns.org/ONSportsNews/mpegts
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png" group-title="🍭| K+ Vieon",K+CINE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/ce82011fb5b5541b6c7740f04cc146d6/1653218397895/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/04/08/z4cfm1u3_ngang_klife.png" group-title="🍭| K+ Vieon",K+LIFE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/ba44158814fa5a130bcc9c2c0061f434/1653218458266/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/03/03/02qir9yg_livetv-ngang.png" group-title="🍭| K+ Vieon",K+KIDS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livetvbydtpro.duckdns.org:8123/drm/key.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/9bc932f156cd81f7d91acfabdbd199ff/1653218518549/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/10/28/4q516e9r_k-sport1.png" group-title="🍭| K+ Vieon",K+SPORT1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/fa2d48dc99e1ed753657cc0b5ae4c6e8/1653218578883/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png" group-title="🍭| K+ Vieon",K+SPORT2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/b102c5f961897ca3c39426c256bbc2f9/1653218639126/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/129.png?ver=14", K+ Cine HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=de5016c55df840ceab41f8d21650cc74&key=99ec7e1d9e3bc1ab1a61f4a7a1cb5ac6
+http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="klifehd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/130.png?ver=14", K+ Life HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c217af31a2a845f3a8c68bc11f5ea5e5&key=ffde4651ad3baf58cad2d6a239eb1a63
+http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/131.png?ver=14", K+ Sport1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b1497ec211a9400fadaeb67766ad5808&key=1943b176752449142e74044ea4654d7a
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/140.png?ver=15", K+ Sport2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d4b9e73b9702427b89d699c93015108c&key=c077a933d563687cca5f046d6a58ad12
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🤩| MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
