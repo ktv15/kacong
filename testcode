@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml"
 
-#EXTINF:-1 tvg-id="vtv3hd" group-title="MTV" tvg-logo="https://sugustvno1.tk/other/service.php?u=sugustvno1&p=999999", UPDATE 05:33⏱11/06
+#EXTINF:-1 tvg-id="vtv3hd" group-title="MTV" tvg-logo="https://sugustvno1.tk/other/service.php?u=sugustvno1&p=999999", UPDATE
 https://sugustvno1.tk/get/ott/mtv.php?id=211 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="MTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/qs8nfynd_k-cine_296_168.webp", K+CINE HD
