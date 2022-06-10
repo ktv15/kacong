@@ -1130,37 +1130,4 @@ https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-music&itb=1
 https://api.vthanhtivii.xyz/v1/getlink/nethub?id=planet-earth&itb=1
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman NetHub
 https://api.vthanhtivii.xyz/v1/getlink/nethub?id=woman&itb=1
-#HIDE----
-#EXTINF:0 tvg-id="france24eng" group-title="ㅤ" tvg-logo="https://i.ibb.co/gZZrjWn/BlueStar.gif",𝗡𝗘𝗧Hub 🅃🅅
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/rs4dnpq9m4cbf1h/																						 ㅤ
-#EXTINF:0  tvg-id="musicbox" group-title="ㅤ" tvg-logo="https://i.ibb.co/92SxHZK/cc-Box-Music.jpg",BOX Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/v9g46fkke3h2cpo/																						 ㅤ
-#EXTINF:0 tvg-id="inthebox" group-title="ㅤ" tvg-logo="https://i.ibb.co/zSPz851/cc-Boxchannel.jpg",BOX Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/																						 ㅤ
-#EXTINF:0 tvg-id="boxhits" group-title="ㅤ" tvg-logo="https://i.ibb.co/Xzzztyy/cc-Box-Hits.jpg",BOX Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/28ty97que0ave8x/																						 ㅤ
-#EXTINF:0 tvg-id="boxmovie1" group-title="ㅤ" tvg-logo="https://i.ibb.co/MSNQqM6/cc-Box-Movie1.png",BOX Movie¹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/u607615uzi4ynmy/																						 ㅤ
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="ㅤ" tvg-logo="https://i.ibb.co/wwSQdVN/cc-Hollywood-Classic.jpg",Hollywood Classics
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/bd1dqz0nirvbyrk/																						 ㅤ
-#EXTINF:0  tvg-id="man" group-title="ㅤ" tvg-logo="https://i.ibb.co/4Fb1FQ7/ccManTV.png",Man
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/																						 ㅤ
-#EXTINF:0  tvg-id="woman" group-title="ㅤ" tvg-logo="https://i.ibb.co/DVpZVW0/ccWoman.jpg",Woman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/4kjl38qcn0pq3m2/																						 ㅤ
-#EXTINF:0  tvg-id="drfithd" group-title="ㅤ" tvg-logo="https://i.ibb.co/93FsMQt/ccDrFit.png",Dr. Fit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/klul1refps05pfo/																						 ㅤ
-#EXTINF:0  tvg-id="planetearthhd" group-title="ㅤ" tvg-logo="https://i.ibb.co/2dMdqzz/cc-Planet-Earth.jpg",Planet Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/m2fp0v246769390/																						 ㅤ
-#EXTINF:0 tvg-id="happykids"  group-title="ㅤ" tvg-logo="https://i.ibb.co/fC11W0Z/cc-Happy-Kids.jpg",Happy Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/gwevb3s2bg9l8tf/
+
