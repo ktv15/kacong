@@ -1110,24 +1110,34 @@ http://103.170.123.169:9981/stream/channelid/1823389429?auth=PINeJlTJXh13Xek4pTk
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman
 http://103.170.123.169:9981/stream/channelid/1657168867?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-movie&itb=1
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=hollywood-classics&itb=1
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-channel&itb=1
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-hits&itb=1
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=man-tv&itb=1
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=dr-fit&itb=1
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=happy-kids&itb=1
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-music&itb=1
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=planet-earth&itb=1
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman NetHub
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=woman&itb=1
+#EXTINF:-1 tvg-id="inthebox" group-title="📦|Box" tvg-logo="https://i.ibb.co/Wny9G2b/itbox.png", Box Channel
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?boxchannel
+#EXTINF:-1 tvg-id="boxhits" group-title="📦|Box" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png", Box Hits
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?boxhits
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦|Box" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png",Box movie1
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?boxmovie&tb|Referer=http://sctvonline.vn/&tb|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="drfithd" group-title="📦|Box" tvg-logo="https://i.ibb.co/6t2wTkX/Dr-Fit.png", Dr.Fit
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?drfit&tb|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids" group-title="📦|Box" tvg-logo="https://i.ibb.co/XkZPwWN/kids.png", Happy Kids
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?happykid&tb|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦|Box" tvg-logo="https://i.ibb.co/SBChhPr/hollywood.png",Hollywood Classics
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?hollywood&tb|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦|Box" tvg-logo="https://i.ibb.co/zQKzxNn/Planet-Earth.png", Planet Earth
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?planetearth&tb|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="musicbox" group-title="📦|Box" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp", Music Box
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?boxmusic
+#EXTINF:-1 tvg-id="man" group-title="📦|Box" tvg-logo="https://i.ibb.co/HzMBHnp/man.png",Man
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?man
+#EXTINF:-1 tvg-id="woman" group-title="📦|Box" tvg-logo="https://i.ibb.co/CBSf3yt/Woman.png",Woman
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?woman&tb|Referer=http://sctvonline.vn/
 
