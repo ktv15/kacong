@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="📺|NetHub" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" ,Vĩnh Long 1
+
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" group-title="📺|NetHub",Vĩnh Long 1
 https://sugustvno1.tk/get/ott/nethub.php?id=3685
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" ,Vĩnh Long 2
@@ -53,7 +54,6 @@ http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=291&typ
 
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" group-title="📺|NetHub" tvg-chno="28" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 HD
 https://sugustvno1.tk/get/ott/nethub.php?id=16045
-#http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=484&type=playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/r3Jiu5Q.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
 http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=300&type=playlist.m3u8
