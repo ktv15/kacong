@@ -10,7 +10,14 @@ https://sugustvno1.tk/get/ott/nethub.php?id=5968
 
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/iuYepMv.jpg" ,Vĩnh Long 4
- 
+
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" group-title="📺|NetHub" tvg-chno="28" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 HD
+https://sugustvno1.tk/get/ott/nethub.php?id=16045
+
+
+
+#EXTINF:-1 tvg-id="htv9hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/r3Jiu5Q.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
+https://sugustvno1.tk/get/ott/nethub.php?id=16046
  
 #BOX
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📺|NetHub" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151529620/146cc0e1e8ba.png", Box Movie 1
