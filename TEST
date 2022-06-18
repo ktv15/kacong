@@ -1,0 +1,315 @@
+#EXTM3U url-tvg="http://gg.gg/epgvn03"
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="📺|NetHub" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" ,Vĩnh Long 1
+https://sugustvno1.tk/get/ott/nethub.php?id=3685
+
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" ,Vĩnh Long 2
+https://sugustvno1.tk/get/ott/nethub.php?id=5968
+
+
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/w7nxAjc.jpg" ,Vĩnh Long 3
+https://sugustvno1.tk/get/ott/nethub.php?id=17414
+
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/iuYepMv.jpg" ,Vĩnh Long 4
+https://sugustvno1.tk/get/ott/nethub.php?id=17415
+
+# VTV
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 FHD" tvg-logo="https://i.imgur.com/gEeOn8m.png" group-title="📺|NetHub" ,VTV1 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=180&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 FHD" tvg-logo="https://i.imgur.com/VFMsYsC.png" group-title="📺|NetHub" ,VTV2 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=183&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 FHD" tvg-logo="https://i.imgur.com/fZ3gsOm.png" group-title="📺|NetHub" ,VTV3 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=158&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 FHD" tvg-logo="https://i.imgur.com/QkOaw5C.png" group-title="📺|NetHub" ,VTV4 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=399&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 FHD" tvg-logo="https://i.imgur.com/Vmrc9MF.png" group-title="📺|NetHub" ",VTV5 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=408&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 FHD" tvg-logo="https://i.imgur.com/vRHKaJ1.png" group-title="📺|NetHub" ,VTV6 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=155&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 FHD" tvg-logo="https://i.imgur.com/PuxUyNd.png" group-title="📺|NetHub" ,VTV7 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=514&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 FHD" tvg-logo="https://i.imgur.com/gbLSb1U.png" group-title="📺|NetHub" ,VTV8 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=405&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 FHD" tvg-logo="https://i.imgur.com/HVzRp3b.png" group-title="📺|NetHub",VTV9 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=291&type=playlist.m3u8
+
+#HTV
+
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" group-title="📺|NetHub" tvg-chno="28" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 HD
+https://sugustvno1.tk/get/ott/nethub.php?id=16045
+#http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=484&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htv9hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/r3Jiu5Q.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=300&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htv1" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/k6hMK1M.png",HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=261&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htv2hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/OXfIZvx.png" tvg-chno="25" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8",HTV2 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=173&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htv3" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/k1haCmE.png",HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=170&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htvkey" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/BcCA0x2.png",HTV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=264&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/ikaiET3.png",HTV Thể Thao HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=309&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/nmj2GzH/HTVCThuan-Viet-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=252&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcthuanviethd" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/7QFQNcN/Thuan-Viet-HD-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Thuần Việt HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=354&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/d0g19Tx/HTVCGia-Dinh-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Gia Đình
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=249&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcphimhd" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/n3QhGdm/HTVCPhim-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Phim
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=303&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/8zrqfgP/HTVCPhu-Nu-cc.webp",HTVC Phụ Nữ
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=526&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcplushd" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/7QjqVJP/HTVCPlus-cc.webp",HTVC Plus
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=726&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvccanhachd" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/vsq97Rf/HTVCCa-Nhac-cc.webp",HTVC Ca Nhạc
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=523&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/2kG47vd/HTVCDu-Lich-cc.webp",HTVC Du Lịch & Cuộc Sống
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=219&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvc_vgs_shop" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/941GkKt/HTVCShop-cc.webp",HTVC VGS Shop
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=225&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvc_coop" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/P5RQfZg/HTVCoop-cc.webp",HTV Co.op
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=258&type=playlist.m3u8
+
+#VTC
+
+#EXTINF:0 tvg-id="vtc1hd" tvg-name="VTC1-Cliptv" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=294&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="vtc2" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/7WwzKSj/VTC2-BEARTV.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC2 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=243&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="vtc3hd" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/X2dbCDb/VTC3-BEARTV.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=240&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="vtc4hd" tvg-name="VTC4-Cliptv" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/v4Hrc3p/VTC4-BEARTV.png" tvg-chno="12" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC4 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=453&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5-Cliptv" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/TmyXFvP/VTC5-BEARTV.jpg" tvg-chno="13" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC5 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=234&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTC6hd" tvg-name="VTC6-Cliptv" group-title="📺|NetHub" tvg-logo="https://i.ibb.co/jHzdRKS/VTC6-BEARTV.png" tvg-chno="14" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC6 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=459&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc7hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/lW2DbEB.png" tvg-chno="15" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC7 HD  - todayTV
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=161&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc8" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/FVM7co8.jpg" tvg-chno="16" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC8 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=237&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc9hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/mODLJyK.png" tvg-chno="17" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC9 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=231&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc10hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/djfEjs5.png" tvg-chno="18" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC10 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=297&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc11" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/AyBxScM.png" tvg-chno="19" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC11 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=267&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc12" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/DqHGORv.jpg" tvg-chno="20" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC12 HD - VTCK
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=456&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc13hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/lNji7l0.png" tvg-chno="21" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC13 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=345&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc14hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/RjXbfNd.png" tvg-chno="22" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC14 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=517&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc16" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/silGs1H.png" tvg-chno="23" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC16 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=306&type=playlist.m3u8
+
+#ClipTV
+
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="📺|ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" , THVL1 HD
+http://sunnytv.xyz/playlist.php?user=khanhtran&pass=12345678&play&id=164&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" tvg-chno="32" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDItNzIwcCIsImV4cCI6MTYzMTg5NzUwOX0.H-0qQ0vi85SUOJpX-gbTTUijHvcEHbGhEmBMfIFZqnE-/thvl2-720p/playlist_dvr_range-${start}-2700.m3u8",Vĩnh Long 2 HD
+http://sunnytv.xyz/playlist.php?user=khanhtran&pass=12345678&play&id=315&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/w7nxAjc.jpg" tvg-chno="33" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDMtNzIwcCIsImV4cCI6MTYzMTg5ODAxOH0.3sjlofVodMaFu-ZwLIUvTD-eZhMZvdoTD5IGLxoDlZ8-/thvl3-720p/playlist_dvr_range-${start}-2699.m3u8,Vĩnh Long 3 HD
+http://sunnytv.xyz/playlist.php?user=khanhtran&pass=12345678&play&id=807&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/iuYepMv.jpg" tvg-chno="34" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDQtNzIwcCIsImV4cCI6MTYzMTg5ODA0OH0.ZVpAeEqyRh1eIv9w1l8gTU46FbbbcE6U9zGtS07xizo-/thvl4-720p/playlist_dvr_range-${start}-1138.m3u8",Vĩnh Long 4 HD
+http://sunnytv.xyz/playlist.php?user=khanhtran&pass=12345678&play&id=821&type=playlist.m3u8
+
+# VTV
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 FHD" tvg-logo="https://i.imgur.com/gEeOn8m.png" group-title="📺|ClipTV" ,VTV1 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=180&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 FHD" tvg-logo="https://i.imgur.com/VFMsYsC.png" group-title="📺|ClipTV" ,VTV2 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=183&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 FHD" tvg-logo="https://i.imgur.com/fZ3gsOm.png" group-title="📺|ClipTV" ,VTV3 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=158&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 FHD" tvg-logo="https://i.imgur.com/QkOaw5C.png" group-title="📺|ClipTV" ,VTV4 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=399&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 FHD" tvg-logo="https://i.imgur.com/Vmrc9MF.png" group-title="📺|ClipTV" ",VTV5 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=408&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 FHD" tvg-logo="https://i.imgur.com/vRHKaJ1.png" group-title="📺|ClipTV" ,VTV6 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=155&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 FHD" tvg-logo="https://i.imgur.com/PuxUyNd.png" group-title="📺|ClipTV" ,VTV7 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=514&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 FHD" tvg-logo="https://i.imgur.com/gbLSb1U.png" group-title="📺|ClipTV" ,VTV8 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=405&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 FHD" tvg-logo="https://i.imgur.com/HVzRp3b.png" group-title="📺|ClipTV",VTV9 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=291&type=playlist.m3u8
+
+#HTV
+
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" group-title="📺|ClipTV" tvg-chno="28" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 HD
+https://sugustvno1.tk/get/ott/nethub.php?id=16045
+#http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=484&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htv9hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/r3Jiu5Q.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=300&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htv1" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/k6hMK1M.png",HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=261&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htv2hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/OXfIZvx.png" tvg-chno="25" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8",HTV2 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=173&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htv3" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/k1haCmE.png",HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=170&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htvkey" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/BcCA0x2.png",HTV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=264&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/ikaiET3.png",HTV Thể Thao HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=309&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/nmj2GzH/HTVCThuan-Viet-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=252&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcthuanviethd" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/7QFQNcN/Thuan-Viet-HD-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Thuần Việt HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=354&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/d0g19Tx/HTVCGia-Dinh-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Gia Đình
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=249&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcphimhd" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/n3QhGdm/HTVCPhim-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",HTVC Phim
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=303&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/8zrqfgP/HTVCPhu-Nu-cc.webp",HTVC Phụ Nữ
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=526&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcplushd" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/7QjqVJP/HTVCPlus-cc.webp",HTVC Plus
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=726&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvccanhachd" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/vsq97Rf/HTVCCa-Nhac-cc.webp",HTVC Ca Nhạc
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=523&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/2kG47vd/HTVCDu-Lich-cc.webp",HTVC Du Lịch & Cuộc Sống
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=219&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvc_vgs_shop" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/941GkKt/HTVCShop-cc.webp",HTVC VGS Shop
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=225&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="htvc_coop" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/P5RQfZg/HTVCoop-cc.webp",HTV Co.op
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=258&type=playlist.m3u8
+
+#VTC
+
+#EXTINF:0 tvg-id="vtc1hd" tvg-name="VTC1-Cliptv" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=294&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="vtc2" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/7WwzKSj/VTC2-BEARTV.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC2 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=243&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="vtc3hd" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/X2dbCDb/VTC3-BEARTV.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=240&type=playlist.m3u8
+
+#EXTINF:0 tvg-id="vtc4hd" tvg-name="VTC4-Cliptv" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/v4Hrc3p/VTC4-BEARTV.png" tvg-chno="12" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC4 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=453&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5-Cliptv" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/TmyXFvP/VTC5-BEARTV.jpg" tvg-chno="13" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC5 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=234&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTC6hd" tvg-name="VTC6-Cliptv" group-title="📺|ClipTV" tvg-logo="https://i.ibb.co/jHzdRKS/VTC6-BEARTV.png" tvg-chno="14" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC6 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=459&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc7hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/lW2DbEB.png" tvg-chno="15" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC7 HD  - todayTV
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=161&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc8" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/FVM7co8.jpg" tvg-chno="16" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC8 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=237&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc9hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/mODLJyK.png" tvg-chno="17" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC9 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=231&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc10hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/djfEjs5.png" tvg-chno="18" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC10 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=297&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc11" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/AyBxScM.png" tvg-chno="19" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC11 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=267&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc12" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/DqHGORv.jpg" tvg-chno="20" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC12 HD - VTCK
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=456&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc13hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/lNji7l0.png" tvg-chno="21" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC13 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=345&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc14hd" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/RjXbfNd.png" tvg-chno="22" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC14 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=517&type=playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtc16" group-title="📺|ClipTV" tvg-logo="https://i.imgur.com/silGs1H.png" tvg-chno="23" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC16 HD
+http://sunnytv.xyz/cliptv-Khanh.php?user=khanhtran&pass=12345678&play&id=306&type=playlist.m3u8
+
+
