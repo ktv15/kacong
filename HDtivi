@@ -1165,25 +1165,3 @@ https://sugustvno1.tk/get/ott/nethub.php?id=9333
 #EXTVLCOPT:http-user-agent=TuBienTV
 #https://tbientv.xyz/channel/?woman&tb|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-http://vthanhvnpt2.duckdns.org:9981/stream/channelid/473987497?profile=pass
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-http://vthanhvnpt2.duckdns.org:9981/stream/channelid/14434601?profile=pass
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-http://vthanhvnpt2.duckdns.org:9981/stream/channelid/1434031314?profile=pass
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-http://vthanhvnpt.duckdns.org/boxhits/mpegts
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
-http://vthanhvnpt2.duckdns.org:9981/stream/channelid/1924927624?profile=pass
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
-http://vthanhvnpt2.duckdns.org:9981/stream/channelid/395862523?profile=pass
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
-http://vthanhvnpt2.duckdns.org:9981/stream/channelid/1656320679?profile=pass
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
-http://vthanhvnpt2.duckdns.org:9981/stream/channelid/1656320679?profile=pass
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
-http://vthanhvnpt2.duckdns.org:9981/stream/channelid/133162766?profile=pass
-
