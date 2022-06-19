@@ -1071,58 +1071,98 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://i.imgur.com/7ezL9QR.png" group-title="📦| In The Box",Hollywood Classics
 http://103.170.123.169:9981/stream/channelid/695103925?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
+#BOX
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📺|NetHub" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151529620/146cc0e1e8ba.png", Box Movie 1
+https://sugustvno1.tk/get/ott/nethub.php?id=9328
+
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://i.imgur.com/7ezL9QR.png" group-title="📺|NetHub",Hollywood Classics
+https://sugustvno1.tk/get/ott/nethub.php?id=9331
+
+#EXTINF:-1 tvg-id="boxhits" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/RsPQynH.png" group-title="📺|NetHub",Box Hits
+https://sugustvno1.tk/get/ott/nethub.php?id=9330
+
+#EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box" tvg-logo="https://i.imgur.com/MJ04314.png" group-title="📺|NetHub",Music Box
+https://sugustvno1.tk/get/ott/nethub.php?id=9329
+
+#EXTINF:-1 tvg-id="planetearthhd" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/BG7eCoF.png" group-title="📺|NetHub",Planet Earth
+https://sugustvno1.tk/get/ott/nethub.php?id=9334
+
+#EXTINF:-1 tvg-id="drfithd" tvg-name="Dr.Fit" tvg-logo="https://i.imgur.com/wAqas2c.png" group-title="📺|NetHub",Dr.Fit
+https://sugustvno1.tk/get/ott/nethub.php?id=9335
+
+#EXTINF:-1 tvg-id="happykids" tvg-name="Happy Kids" tvg-logo="https://i.imgur.com/zOxuSlp.png" group-title="📺|NetHub",Happy Kids
+https://sugustvno1.tk/get/ott/nethub.php?id=9337
+
+#EXTINF:-1 tvg-id="inthebox" group-title="📺|NetHub" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
+https://sugustvno1.tk/get/ott/nethub.php?id=9336
+
+#EXTINF:-1 tvg-id="man" group-title="📺|NetHub" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623742934c_Man.png", Man
+https://sugustvno1.tk/get/ott/nethub.php?id=9332
+
+#EXTINF:-1 tvg-id="woman" group-title="📺|NetHub" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman
+https://sugustvno1.tk/get/ott/nethub.php?id=9333
+
 #EXTINF:-1 tvg-id="boxhits" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/RsPQynH.png" group-title="📦| In The Box",Box Hits
-http://103.170.123.169:9981/stream/channelid/1702074365?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#http://103.170.123.169:9981/stream/channelid/1702074365?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
 #EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box" tvg-logo="https://i.imgur.com/MJ04314.png" group-title="📦| In The Box",Music Box
-http://103.170.123.169:9981/stream/channelid/1400915300?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#http://103.170.123.169:9981/stream/channelid/1400915300?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
 #EXTINF:-1 tvg-id="planetearthhd" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/BG7eCoF.png" group-title="📦| In The Box",Planet Earth
-http://103.170.123.169:9981/stream/channelid/84599789?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#http://103.170.123.169:9981/stream/channelid/84599789?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
 #EXTINF:-1 tvg-id="drfithd" tvg-name="Dr.Fit" tvg-logo="https://i.imgur.com/wAqas2c.png" group-title="📦| In The Box",Dr.Fit
-http://103.170.123.169:9981/stream/channelid/1882346015?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#http://103.170.123.169:9981/stream/channelid/1882346015?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
 #EXTINF:-1 tvg-id="happykids" tvg-name="Happy Kids" tvg-logo="https://i.imgur.com/zOxuSlp.png" group-title="📦| In The Box",Happy Kids
-http://103.170.123.169:9981/stream/channelid/1514801111?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#http://103.170.123.169:9981/stream/channelid/1514801111?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
-http://103.170.123.169:9981/stream/channelid/2001261699?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#http://103.170.123.169:9981/stream/channelid/2001261699?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
 #EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623742934c_Man.png", Man
-http://103.170.123.169:9981/stream/channelid/1823389429?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#http://103.170.123.169:9981/stream/channelid/1823389429?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman
-http://103.170.123.169:9981/stream/channelid/1657168867?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#http://103.170.123.169:9981/stream/channelid/1657168867?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|Box" tvg-logo="https://i.ibb.co/Wny9G2b/itbox.png", Box Channel
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?boxchannel
+#https://tbientv.xyz/channel/?boxchannel
+
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|Box" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png", Box Hits
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?boxhits
+#https://tbientv.xyz/channel/?boxhits
+
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦|Box" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png",Box movie1
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?boxmovie&tb|Referer=http://sctvonline.vn/&tb|Referer=http://sctvonline.vn/
+#https://tbientv.xyz/channel/?boxmovie&tb|Referer=http://sctvonline.vn/&tb|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="drfithd" group-title="📦|Box" tvg-logo="https://i.ibb.co/6t2wTkX/Dr-Fit.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?drfit&tb|Referer=http://sctvonline.vn/
+#https://tbientv.xyz/channel/?drfit&tb|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="happykids" group-title="📦|Box" tvg-logo="https://i.ibb.co/XkZPwWN/kids.png", Happy Kids
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?happykid&tb|Referer=http://sctvonline.vn/
+#https://tbientv.xyz/channel/?happykid&tb|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦|Box" tvg-logo="https://i.ibb.co/SBChhPr/hollywood.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?hollywood&tb|Referer=http://sctvonline.vn/
+#https://tbientv.xyz/channel/?hollywood&tb|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦|Box" tvg-logo="https://i.ibb.co/zQKzxNn/Planet-Earth.png", Planet Earth
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?planetearth&tb|Referer=http://sctvonline.vn/
+#https://tbientv.xyz/channel/?planetearth&tb|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="musicbox" group-title="📦|Box" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp", Music Box
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?boxmusic
+#https://tbientv.xyz/channel/?boxmusic
+
 #EXTINF:-1 tvg-id="man" group-title="📦|Box" tvg-logo="https://i.ibb.co/HzMBHnp/man.png",Man
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?man
+#https://tbientv.xyz/channel/?man
+
 #EXTINF:-1 tvg-id="woman" group-title="📦|Box" tvg-logo="https://i.ibb.co/CBSf3yt/Woman.png",Woman
 #EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?woman&tb|Referer=http://sctvonline.vn/
+#https://tbientv.xyz/channel/?woman&tb|Referer=http://sctvonline.vn/
 
