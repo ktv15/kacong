@@ -446,10 +446,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=ht
 #EXTINF:0 tvg-id="hollywoodclassics" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/FbKGWY3/Hollywood-Classics-cc.webp",Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:0  tvg-id="man" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",Man
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/8d1o55kkat4az1s/																				 ㅤ
-#http://gg.gg/ccmantv
+
+#EXTINF:-1 tvg-id="man" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/HzMBHnp/man.png",Man
+#EXTVLCOPT:http-user-agent=TuBienTV
+https://tbientv.xyz/channel/?man
+
 #EXTINF:0  tvg-id="woman" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
