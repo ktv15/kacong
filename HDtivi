@@ -416,41 +416,51 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s2/index.m3u8?cc|R
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 
 #BOX-----
-
 #EXTINF:0  tvg-id="musicbox" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",BOX Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://vips-livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:0 tvg-id="inthebox" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",BOX Channel
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/roecd7qwmhok7lm/																				 ㅤ
+http://gg.gg/ccboxchannel
 #EXTINF:0 tvg-id="boxhits" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",BOX Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/gt23z0dvx2fdjex/																				 ㅤ
-#http://gg.gg/ccboxhits
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/uipdh7phvm52yfb/																				 ㅤ
+http://gg.gg/ccboxhits
 #EXTINF:0 tvg-id="boxmovie1" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hollywoodclassics" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/FbKGWY3/Hollywood-Classics-cc.webp",Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="man" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/HzMBHnp/man.png",Man
-#EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/channel/?man
-
+#EXTINF:0  tvg-id="man" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/tubrv9u4sd0xj69/																				 ㅤ
+http://gg.gg/ccmantv
 #EXTINF:0  tvg-id="woman" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0  tvg-id="drfithd" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/t8SWCHJ/DrFit-cc.webp",Dr. Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="happykids" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0  tvg-id="planetearthhd" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://dl.dropboxusercontent.com/s/vbttuslsc5txk5p/ 	ㅤ
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/glpx09qnogazkas/ 	ㅤ
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+
 #EXTINF:0 tvg-id="hbohd" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?cc
