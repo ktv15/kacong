@@ -1086,30 +1086,19 @@ https://sugustvno1.tk/get/ott/nethub.php?id=9332
 #EXTINF:-1 tvg-id="woman" group-title="BOX" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman
 https://sugustvno1.tk/get/ott/nethub.php?id=9333
 
-#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://i.imgur.com/7ezL9QR.png" group-title="📦| In The Box",Hollywood Classics
-#http://103.170.123.169:9981/stream/channelid/695103925?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#BOX
 
-#EXTINF:-1 tvg-id="boxhits" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/RsPQynH.png" group-title="📦| In The Box",Box Hits
-#http://103.170.123.169:9981/stream/channelid/1702074365?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
-#EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box" tvg-logo="https://i.imgur.com/MJ04314.png" group-title="📦| In The Box",Music Box
-#http://103.170.123.169:9981/stream/channelid/1400915300?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man
+http://dtpro:123321@103.170.123.169:9981/stream/channelid/1166000545?ticket=0C3177F2D2DB6A051D049C42AB7A4853E4A15021&profile=pass
 
-#EXTINF:-1 tvg-id="planetearthhd" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/BG7eCoF.png" group-title="📦| In The Box",Planet Earth
-#http://103.170.123.169:9981/stream/channelid/84599789?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
-#EXTINF:-1 tvg-id="drfithd" tvg-name="Dr.Fit" tvg-logo="https://i.imgur.com/wAqas2c.png" group-title="📦| In The Box",Dr.Fit
-#http://103.170.123.169:9981/stream/channelid/1882346015?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/woman.png", Woman
+http://dtpro:123321@103.170.123.169:9981/stream/channelid/1562721042?ticket=26B7F24936346C8C667F1BFBC53AFE4E78593D60&profile=pass
 
-#EXTINF:-1 tvg-id="happykids" tvg-name="Happy Kids" tvg-logo="https://i.imgur.com/zOxuSlp.png" group-title="📦| In The Box",Happy Kids
-#http://103.170.123.169:9981/stream/channelid/1514801111?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/planet-earth.png", Planet Earth
+http://dtpro:123321@103.170.123.169:9981/stream/channelid/1195368792?ticket=24CD84502DE8B09AF9773D9AEDFF4E004EC3362E&profile=pass
 
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
-#http://103.170.123.169:9981/stream/channelid/2001261699?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
 
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623742934c_Man.png", Man
-#http://103.170.123.169:9981/stream/channelid/1823389429?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
-
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman
-#http://103.170.123.169:9981/stream/channelid/1657168867?auth=PINeJlTJXh13Xek4pTkV8uHdAhMA&profile=pass
-
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/dr_fit.png", Dr.Fit
+http://dtpro:123321@103.170.123.169:9981/stream/channelid/698394366?ticket=96029D861D82C8C117279665A274AA22DB9F2FA1&profile=pass
