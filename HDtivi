@@ -1055,35 +1055,35 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
 
-#BOX
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📺|NetHub" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151529620/146cc0e1e8ba.png", Box Movie 1
+#NETHUB
+#EXTINF:-1 tvg-id="boxmovie1" group-title="BOX" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151529620/146cc0e1e8ba.png", Box Movie 1
 https://sugustvno1.tk/get/ott/nethub.php?id=9328
 
-#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://i.imgur.com/7ezL9QR.png" group-title="📺|NetHub",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://i.imgur.com/7ezL9QR.png" group-title="BOX",Hollywood Classics
 https://sugustvno1.tk/get/ott/nethub.php?id=9331
 
-#EXTINF:-1 tvg-id="boxhits" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/RsPQynH.png" group-title="📺|NetHub",Box Hits
+#EXTINF:-1 tvg-id="boxhits" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/RsPQynH.png" group-title="BOX",Box Hits
 https://sugustvno1.tk/get/ott/nethub.php?id=9330
 
-#EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box" tvg-logo="https://i.imgur.com/MJ04314.png" group-title="📺|NetHub",Music Box
+#EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box" tvg-logo="https://i.imgur.com/MJ04314.png" group-title="BOX",Music Box
 https://sugustvno1.tk/get/ott/nethub.php?id=9329
 
-#EXTINF:-1 tvg-id="planetearthhd" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/BG7eCoF.png" group-title="📺|NetHub",Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/BG7eCoF.png" group-title="BOX",Planet Earth
 https://sugustvno1.tk/get/ott/nethub.php?id=9334
 
-#EXTINF:-1 tvg-id="drfithd" tvg-name="Dr.Fit" tvg-logo="https://i.imgur.com/wAqas2c.png" group-title="📺|NetHub",Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" tvg-name="Dr.Fit" tvg-logo="https://i.imgur.com/wAqas2c.png" group-title="BOX",Dr.Fit
 https://sugustvno1.tk/get/ott/nethub.php?id=9335
 
-#EXTINF:-1 tvg-id="happykids" tvg-name="Happy Kids" tvg-logo="https://i.imgur.com/zOxuSlp.png" group-title="📺|NetHub",Happy Kids
+#EXTINF:-1 tvg-id="happykids" tvg-name="Happy Kids" tvg-logo="https://i.imgur.com/zOxuSlp.png" group-title="BOX",Happy Kids
 https://sugustvno1.tk/get/ott/nethub.php?id=9337
 
-#EXTINF:-1 tvg-id="inthebox" group-title="📺|NetHub" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="BOX" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
 https://sugustvno1.tk/get/ott/nethub.php?id=9336
 
-#EXTINF:-1 tvg-id="man" group-title="📺|NetHub" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623742934c_Man.png", Man
+#EXTINF:-1 tvg-id="man" group-title="BOX" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623742934c_Man.png", Man
 https://sugustvno1.tk/get/ott/nethub.php?id=9332
 
-#EXTINF:-1 tvg-id="woman" group-title="📺|NetHub" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman
+#EXTINF:-1 tvg-id="woman" group-title="BOX" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman
 https://sugustvno1.tk/get/ott/nethub.php?id=9333
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://i.imgur.com/7ezL9QR.png" group-title="📦| In The Box",Hollywood Classics
