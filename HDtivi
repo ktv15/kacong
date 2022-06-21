@@ -3,16 +3,19 @@
 # THVL
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="TEST" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/04/08/7jm88eeg_thvl1b93bd99b1200b60730d4539bd79b6ec9_296_168.webp", THVL1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?kenh=thvl1-hd
+https://sunnytv.xyz/vieon.php?user=admin&pass=sunny15&kenh=thvl1-hd
+
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="TEST" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fstbcaqz_thvl2-moi14271023d66c7689e4dd5709bbe22024_296_168.webp", THVL2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?kenh=thvl2-hd
+https://sunnytv.xyz/vieon.php?user=admin&pass=sunny15&kenh=thvl2-hd
+
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="TEST" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/96zx88xd_thvl3_296_168.webp", THVL3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?kenh=thvl3-hd
+https://sunnytv.xyz/vieon.php?user=admin&pass=sunny15&kenh=thvl3-hd
+
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="TEST" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/bayzt9n8_thvl4_296_168.webp", THVL4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?kenh=thvl4-hd
+https://sunnytv.xyz/vieon.php?user=admin&pass=sunny15&kenh=thvl4-hd
 
 #EXTINF:-1 group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://i.imgur.com/bbZ3NpB.png", THỬ NHGIỆM
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
