@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
-# THVL
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="TEST" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/04/08/7jm88eeg_thvl1b93bd99b1200b60730d4539bd79b6ec9_296_168.webp", THVL1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://sunnytv.xyz/listtest.php?user=khanhtran&pass=12345678&play&id=164&type=playlist.m3u8
