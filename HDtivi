@@ -503,36 +503,6 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8?cc|Referer=http://
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://vips-livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#BOX
-#EXTINF:-1 tvg-id="boxmovie1" group-title="BOX" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151529620/146cc0e1e8ba.png", Box Movie 1
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/44394501?ticket=BA4BB37C87EFF547B22C1FE4323DD0624299F60B&profile=pass
-
-#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://i.imgur.com/7ezL9QR.png" group-title="BOX",Hollywood Classics
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/653611618?ticket=0D239307D0EBAC9DC8C41BCA6A3F8AB9E8BE1CB7&profile=pass
-
-#EXTINF:-1 tvg-id="boxhits" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/RsPQynH.png" group-title="BOX",Box Hits
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/12823442?ticket=7A538C09E14729BA1FFCAFE4895D1C8CDAEAEF3D&profile=pass
-
-#EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box" tvg-logo="https://i.imgur.com/MJ04314.png" group-title="BOX",Music Box
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/948913597?ticket=71C453362F071496CE20998A28F6E3A6998E33D5&profile=pass
-
-#EXTINF:-1 tvg-id="planetearthhd" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/BG7eCoF.png" group-title="BOX",Planet Earth
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/1195368792?ticket=24CD84502DE8B09AF9773D9AEDFF4E004EC3362E&profile=pass
-
-#EXTINF:-1 tvg-id="drfithd" tvg-name="Dr.Fit" tvg-logo="https://i.imgur.com/wAqas2c.png" group-title="BOX",Dr.Fit
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/698394366?ticket=96029D861D82C8C117279665A274AA22DB9F2FA1&profile=pass
-
-#EXTINF:-1 tvg-id="happykids" tvg-name="Happy Kids" tvg-logo="https://i.imgur.com/zOxuSlp.png" group-title="BOX",Happy Kids
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/376506475?ticket=C836821B7EE17A8735CEB879B9A4F7C16B93A17C&profile=pass
-
-#EXTINF:-1 tvg-id="inthebox" group-title="BOX" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/1551549027?ticket=07BB153AE518FEE5D54AFE6754E9B736FA20D0AD&profile=pass
-
-#EXTINF:-1 tvg-id="man" group-title="BOX" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623742934c_Man.png", Man
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/1166000545?ticket=0C3177F2D2DB6A051D049C42AB7A4853E4A15021&profile=pass
-
-#EXTINF:-1 tvg-id="woman" group-title="BOX" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman
-http://dtpro:123321@103.170.123.169:9981/stream/channelid/1562721042?ticket=26B7F24936346C8C667F1BFBC53AFE4E78593D60&profile=pass
 
 #EXTINF:0 tvg-id="boxmovie1" type="stream" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
