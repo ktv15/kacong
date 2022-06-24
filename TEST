@@ -19,10 +19,12 @@ https://sunnytv.xyz/vieonvip.php?kenh=thvl3-hd
 #https://sunnytv.xyz/vieonvip.php?kenh=thvl4-hd
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" group-title="📺|NetHub", HITS
-https://sugustvno1.tk/get/ott/tv360.php?id=239
+#https://sugustvno1.tk/get/ott/tv360.php?id=239
+https://sugustv.tk/iptv/get/tv360.php?user=housetv&pw=123456&ch=239
 
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" group-title="📺|NetHub", htv7
-https://sugustvno1.tk/get/ott/tv360.php?id=193
+#https://sugustvno1.tk/get/ott/tv360.php?id=193
+https://sugustv.tk/iptv/get/tv360.php?user=housetv&pw=123456&ch=193
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" ,Vĩnh Long 2
 https://sugustvno1.tk/get/ott/tv360.php?id=174
