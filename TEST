@@ -4,13 +4,13 @@
 https://sugustvno1.tk/get/ott/tv360.php?id=107
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" ,Vĩnh Long 2
-https://sugustvno1.tk/get/ott/nethub.php?id=5968
+https://sugustvno1.tk/get/ott/tv360.php?id=26
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/w7nxAjc.jpg" ,Vĩnh Long 3
-
+https://sugustvno1.tk/get/ott/tv360.php?id=219
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/iuYepMv.jpg" ,Vĩnh Long 4
-
+https://sugustvno1.tk/get/ott/tv360.php?id=220
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" group-title="📺|NetHub" tvg-chno="28" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 HD
 https://sugustvno1.tk/get/ott/nethub.php?id=16045
 
