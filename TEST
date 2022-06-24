@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" group-title="📺|NetHub",Vĩnh Long 1
-https://sugustvno1.tk/get/ott/nethub.php?id=3685
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" group-title="📺|NetHub", HITS
+https://sugustvno1.tk/get/ott/tv360.php?id=107
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" ,Vĩnh Long 2
 https://sugustvno1.tk/get/ott/nethub.php?id=5968
