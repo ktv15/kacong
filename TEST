@@ -85,19 +85,19 @@ https://sunnytv.xyz/vieonvip.php?kenh=thvl4-hd
 # HTV
 #EXTINF:-1 tvg-id="htv7hd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/cxyjii3m_htv7829222ca6d932f5776a2a0afdaf4df57_296_168.webp", HTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htv7-hd
+https://sunnytv.xyz/vieonvip.php?kenh=htv7-hd
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/xp9ko8qq_htv9fbbab36e3ca3277fb7da92f6ae98f4b6_296_168.webp", HTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htv9-hd
+https://sunnytv.xyz/vieonvip.php?kenh=htv9-hd
 
 #EXTINF:-1 tvg-id="htv1" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4xuzfg1v_htv18c9e41741f7e3e8c6ebf76b6b8247ef8_296_168.webp", HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htv1
+https://sunnytv.xyz/vieonvip.php?kenh=htv1
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/18/dy677xo9_microsoftteams-image2abb9b68b363b9339ad29a5115f69272_296_168.webp", HTV2 FHD - Vie Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=vie-channel-htv2-hd
+https://sunnytv.xyz/vieonvip.php?kenh=vie-channel-htv2-hd
 
 #EXTINF:-1 tvg-id="htv3" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/qo4rq0c8_htv-35d05534552446b8c856cceb64c0f94f3_296_168.webp", HTV3 - Heo TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
