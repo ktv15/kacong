@@ -101,55 +101,55 @@ https://sunnytv.xyz/vieonvip.php?kenh=vie-channel-htv2-hd
 
 #EXTINF:-1 tvg-id="htv3" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/qo4rq0c8_htv-35d05534552446b8c856cceb64c0f94f3_296_168.webp", HTV3 - Heo TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htv3
+https://sunnytv.xyz/vieonvip.php?kenh=htv3
 
 #EXTINF:-1 tvg-id="htv4" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/ynnn9ypk_htvkey0364056e436d8f637f10ffbc56032c84_296_168.webp", HTV Key
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htv-key
+https://sunnytv.xyz/vieonvip.php?kenh=htv-key
 
 #EXTINF:-1 tvg-id="" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ehoq2nw3_htv-coop_296_168.webp", HTV CO.OP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htv-co-op
+https://sunnytv.xyz/vieonvip.php?kenh=htv-co-op
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ehoq2nw3_htv-coop_296_168.webp", HTV Thể Thao FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htv-the-thao
+https://sunnytv.xyz/vieonvip.php?kenh=htv-the-thao
  
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/f1awhyku_htvcthuanviet_296_168.webp", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htvc-thuan-viet-1
+https://sunnytv.xyz/vieonvip.php?kenh=htvc-thuan-viet-1
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/kzkbf3xc_htvcthuanviethd_296_168.webp", HTVC Thuần Việt FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htvc-thuan-viet-hd
+https://sunnytv.xyz/vieonvip.php?kenh=htvc-thuan-viet-hd
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/kzkbf3xc_htvcthuanviethd_296_168.webp", HTVC Gia đình FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htvc-gia-dinh
+https://sunnytv.xyz/vieonvip.php?kenh=htvc-gia-dinh
 
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.webp", HTVC Phụ nữ FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htvc-phu-nu
+https://sunnytv.xyz/vieonvip.php?kenh=htvc-phu-nu
 
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.webp", HTVC Du lịch Cuộc sống
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htvc-du-lich-cuoc-song
+https://sunnytv.xyz/vieonvip.php?kenh=htvc-du-lich-cuoc-song
 
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/bp6rq37b_htvccanhac_296_168.webp", HTVC Ca nhạc FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htvc-ca-nhac
+https://sunnytv.xyz/vieonvip.php?kenh=htvc-ca-nhac
 
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/7mskjha6_htvcphim_296_168.webp", HTVC Phim FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htvc-phim
+https://sunnytv.xyz/vieonvip.php?kenh=htvc-phim
 
 #EXTINF:-1 tvg-id="htvcplushd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.webp", HTVC Plus FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htvc-plus
+https://sunnytv.xyz/vieonvip.php?kenh=htvc-plus
 
 #EXTINF:-1 tvg-id="" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/og5qy2hu_htvc-shopping_296_168.webp", HTVC Homeshopping
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htvc-mua-sa-m-tieu-du-ng
+https://sunnytv.xyz/vieonvip.php?kenh=htvc-mua-sa-m-tieu-du-ng
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" group-title="📺|NetHub", HITS
 https://sugustvno1.tk/get/ott/tv360.php?id=239
