@@ -141,7 +141,7 @@ https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=115
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 FHD" tvg-logo="https://i.imgur.com/HVzRp3b.png" group-title="📺|VTV",VTV9 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sugustvno1.tk/get/ott/tv360.php?id=8
+#https://sugustvno1.tk/get/ott/tv360.php?id=8
 https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
