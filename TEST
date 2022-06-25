@@ -1,13 +1,10 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
-
 #EXTINF:-1 tvg-id="VTVCab16hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/26.png", ON Football HD
 https://sugustvno1.tk/get/ott/tv360.php?id=174
 
-
 #EXTINF:-1 tvg-id="VTVCab3hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/15.png", ON Sports HD
 https://sugustvno1.tk/get/ott/tv360.php?id=173
-
 
 #EXTINF:-1 tvg-id="VTVCab6hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/18.png", ON Sports+
 https://sugustvno1.tk/get/ott/tv360.php?id=183
@@ -156,7 +153,6 @@ https://sugustvno1.tk/get/ott/tv360.php?id=239
 
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" group-title="📺|NetHub", htv7
 https://sugustvno1.tk/get/ott/tv360.php?id=193
-
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|NetHub" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" ,Vĩnh Long 2
 https://sugustvno1.tk/get/ott/tv360.php?id=174
