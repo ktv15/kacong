@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
 #EXTINF:-1 tvg-id="VTVCab16hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/26.png", ON Football V5
-https://sunnytv.xyz/get/ott/tv360.php?=174
+https://sunnytv.xyz/get/ott/tv360.php?id=174
 
 #EXTINF:-1 tvg-id="VTVCab6hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/18.png", ON Sports+ V
-https://sunnytv.xyz/tv360.php?id=183
+https://sunnytv.xyz/get/ott/tv360.php?id183
 
 #EXTINF:-1 tvg-id="VTVCab18hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/28.png", ON Sports News
-https://sunnytv.xyz/tv360.php?id=170
+https://sunnytv.xyz/get/ott/tv360.php?id=170
 
 #EXTINF:-1 tvg-id="VTVCab23hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/33.png", ON Golf
 https://sugustvno1.tk/get/ott/tv360.php?id=169
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📺|ViettelTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151529620/146cc0e1e8ba.png", Box Movie 1
-https://sunnytv.xyz/tv360.php?id=159
+https://sunnytv.xyz/get/ott/tv360.php?id=159
 
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://i.imgur.com/7ezL9QR.png" group-title="📺|ViettelTV",Hollywood Classics
 https://sugustvno1.tk/get/ott/tv360.php?id=160
 
 #EXTINF:-1 tvg-id="boxhits" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/RsPQynH.png" group-title="📺|ViettelTV",Box Hits V
-https://sunnytv.xyz/tv360.php?id=239
+https://sunnytv.xyz/get/ott/tv360.php?id=239
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📺|ViettelTV" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
 https://sugustvno1.tk/get/ott/tv360.php?id=235
