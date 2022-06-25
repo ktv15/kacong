@@ -83,6 +83,14 @@ https://sunnytv.xyz/vieonvip.php?kenh=thvl3-hd
 https://sunnytv.xyz/vieonvip.php?kenh=thvl4-hd
 
 # HTV
+#EXTINF:-1 tvg-id="htv7hd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/cxyjii3m_htv7829222ca6d932f5776a2a0afdaf4df57_296_168.webp", HTV7 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://sunnytv.xyz/vieonvip.php?channel=htv7-hd
+
+#EXTINF:-1 tvg-id="htv9hd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/xp9ko8qq_htv9fbbab36e3ca3277fb7da92f6ae98f4b6_296_168.webp", HTV9 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://sunnytv.xyz/vieonvip.php?channel=htv9-hd
+
 #EXTINF:-1 tvg-id="htv1" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4xuzfg1v_htv18c9e41741f7e3e8c6ebf76b6b8247ef8_296_168.webp", HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://sunnytv.xyz/vieonvip.php?channel=htv1
@@ -98,14 +106,6 @@ https://sunnytv.xyz/vieonvip.php?channel=htv3
 #EXTINF:-1 tvg-id="htv4" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/ynnn9ypk_htvkey0364056e436d8f637f10ffbc56032c84_296_168.webp", HTV Key
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://sunnytv.xyz/vieonvip.php?channel=htv-key
-
-#EXTINF:-1 tvg-id="htv7hd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/cxyjii3m_htv7829222ca6d932f5776a2a0afdaf4df57_296_168.webp", HTV7 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htv7-hd
-
-#EXTINF:-1 tvg-id="htv9hd" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/xp9ko8qq_htv9fbbab36e3ca3277fb7da92f6ae98f4b6_296_168.webp", HTV9 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/vieonvip.php?channel=htv9-hd
 
 #EXTINF:-1 tvg-id="" group-title="📺|VieON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ehoq2nw3_htv-coop_296_168.webp", HTV CO.OP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
