@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
+#EXTINF:-1 tvg-id="VTVCab16hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/26.png", WANERTV
+https://sugustvno1.tk/get/ott/tv360.php?id=273
+
+#EXTINF:-1 tvg-id="VTVCab16hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/26.png", AXN
+https://sugustvno1.tk/get/ott/tv360.php?id=281
+
+#EXTINF:-1 tvg-id="VTVCab16hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/26.png", HBO
+https://sugustvno1.tk/get/ott/tv360.php?id=271
+
 #EXTINF:-1 tvg-id="VTVCab16hd" group-title="📺|ViettelTV" tvg-logo="https://vthanh.xyz/ic/26.png", ON Football HD
 https://sugustvno1.tk/get/ott/tv360.php?id=174
 
