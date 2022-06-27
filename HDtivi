@@ -26,6 +26,8 @@ http://live.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1652706118~acl=/
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f3bfadc4cf9e47f49d74b067a7863b1c&key=5db9686ccc26471fd9ecd08775e56907
 http://live.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1652706118~acl=/*~hmac=6138509dfc2c9be96ed2cdcc6ef34a728031ca0ec79d3052c7ba388d7c92a105
 
+#EXTINF:-1 tvg-id="VTVCab16hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://vthanh.xyz/ic/26.png", ON FOOTBALL v3
+http://27.67.80.86:18080//222_3.m3u8?AdaptiveType=HLS&SessionID=ea6a6db4-1ec0-4e9a-ab6f-a06aef366978&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="VTVCab16hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://vthanh.xyz/ic/26.png", ON FOOTBALL v2
 https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=174&222.m3u
 
