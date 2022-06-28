@@ -124,39 +124,39 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b2500000.m3u8
 #-*--VTV-*--#
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 FHD" tvg-logo="https://i.imgur.com/gEeOn8m.png" group-title="📺|VTV" ,VTV1 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=2
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=2&playlist.m3u
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 FHD" tvg-logo="https://i.imgur.com/VFMsYsC.png" group-title="📺|VTV" ,VTV2 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=3
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=3&playlist.m3u
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 FHD" tvg-logo="https://i.imgur.com/fZ3gsOm.png" group-title="📺|VTV" ,VTV3 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=4
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=4&playlist.m3u
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 FHD" tvg-logo="https://i.imgur.com/QkOaw5C.png" group-title="📺|VTV" ,VTV4 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=108
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=108&playlist.m3u
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 FHD" tvg-logo="https://i.imgur.com/Vmrc9MF.png" group-title="📺|VTV" ",VTV5 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=110
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=110&playlist.m3u
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 FHD" tvg-logo="https://i.imgur.com/vRHKaJ1.png" group-title="📺|VTV" ,VTV6 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=98
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=98&playlist.m3u
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 FHD" tvg-logo="https://i.imgur.com/PuxUyNd.png" group-title="📺|VTV" ,VTV7 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=6
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=6&playlist.m3u
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 FHD" tvg-logo="https://i.imgur.com/gbLSb1U.png" group-title="📺|VTV" ,VTV8 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=115
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=115&playlist.m3u
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 FHD" tvg-logo="https://i.imgur.com/HVzRp3b.png" group-title="📺|VTV",VTV9 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sunnytv.xyz/fal0stvm1xn7sqkxjrz/ott/tv360.php?id=8
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=8&playlist.m3u
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📺|VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
