@@ -30,9 +30,8 @@ http://live.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1652706118~acl=/
 #EXTINF:-1 tvg-id="VTVCab16hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://vthanh.xyz/ic/26.png", ON FOOTBALL
 https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=174&playlist.m3u
 
-#EXTINF:-1 tvg-id="VTVCab6hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://vthanh.xyz/ic/18.png", ON Sports1+ v2
-#https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=183&playlist.m3u
-http://27.67.80.86:18080//222_3.m3u8
+#EXTINF:-1 tvg-id="VTVCab6hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://vthanh.xyz/ic/18.png", ON Sports+
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=183&playlist.m3u
 
 #EXTINF:-1 tvg-id="VTVCab18hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://vthanh.xyz/ic/28.png", ON Sports News
 https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=170&playlist.m3u
