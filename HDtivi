@@ -89,7 +89,7 @@ https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg" ,Vĩnh Long 4
 https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=220&playlist.m3u
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTV7 HD 🔄
+#EXTINF:-1 tvg-id="htv7hd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=193&playlist.m3u
 
