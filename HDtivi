@@ -35,6 +35,36 @@ https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id
 #EXTINF:-1 tvg-id="VTVCab23hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://vthanh.xyz/ic/33.png", ON Golf
 https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=169&playlist.m3u
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151529620/146cc0e1e8ba.png", Box Movie 1
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=159&playlist.m3u
+
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics" tvg-logo="https://i.imgur.com/7ezL9QR.png" group-title="🍭K+(THỬ NGHIỆM)",Hollywood Classics
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=160&playlist.m3u
+
+#EXTINF:-1 tvg-id="boxhits" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/RsPQynH.png" group-title="🍭K+(THỬ NGHIỆM)",Box Hits
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=239&playlist.m3u
+
+#EXTINF:-1 tvg-id="inthebox" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=235&playlist.m3u
+
+#EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box" tvg-logo="https://i.imgur.com/MJ04314.png" group-title="🍭K+(THỬ NGHIỆM)",Music Box
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=289&playlist.m3u
+
+#EXTINF:-1 tvg-id="planetearthhd" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/BG7eCoF.png" group-title="🍭K+(THỬ NGHIỆM)",Planet Earth
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=135&playlist.m3u
+
+#EXTINF:-1 tvg-id="drfithd" tvg-name="Dr.Fit" tvg-logo="https://i.imgur.com/wAqas2c.png" group-title="🍭K+(THỬ NGHIỆM)",Dr.Fit
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=162&playlist.m3u
+
+#EXTINF:-1 tvg-id="happykids" tvg-name="Happy Kids" tvg-logo="https://i.imgur.com/zOxuSlp.png" group-title="🍭K+(THỬ NGHIỆM)",Happy Kids
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=212&playlist.m3u
+
+#EXTINF:-1 tvg-id="man" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623742934c_Man.png", Man
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=237&playlist.m3u
+
+#EXTINF:-1 tvg-id="woman" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=163&playlist.m3u
+
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="📺|XEM LẠI" tvg-logo="https://cdn.hqth.me/logo/thumbs/259.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL1 HD 🔄
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
