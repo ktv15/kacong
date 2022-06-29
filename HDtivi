@@ -3,25 +3,25 @@
 #EXTINF:-1 group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://i.imgur.com/bbZ3NpB.png", THỬ NHGIỆM
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 FPT
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e
 https://smarttv-drm.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0MWJveF8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTI3MTI2fDEwMy4yMDAuMjIuMjEyfDEwMTI5MDgwZTUyZGY4ZjJlMzE2ZGJmM2QxNzdiNzQ4/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 FPT
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
 https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTI3MTI2fDEwMy4yMDAuMjIuMjEyfGJkYWM4ZTBmYWJiNDdlOWZmODQ3Mzg2MjMwZDQ0ZDhh/drmlive/14022022k1sport2_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE FPT
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
 https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18b3RoZXJ8MTY1MzEyNzE0MXwxMDMuMjAwLjIyLjIxMnw5ZTIzNjIxNjU1ZTg2OTA2MzIwZDljNWYwZjMwNmEyYw/drmlive/14022022k1cine_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE FPT
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
